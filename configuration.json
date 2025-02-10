@@ -1,0 +1,57 @@
+[
+  {
+    "key": "sftpServer",
+    "type": "input",
+    "defaultValue": "",
+    "templateOptions": {
+      "label": "FQDN du serveur SFTP Hublo",
+      "required": true
+    }
+  },
+  {
+    "key": "sftpUser",
+    "type": "input",
+    "defaultValue": "",
+    "templateOptions": {
+      "label": "Utilisateur du serveur SFTP Hublo",
+      "required": true
+    }
+  },
+  {
+    "key": "sftpPassword",
+    "type": "input",
+    "defaultValue": "",
+    "templateOptions": {
+      "label": "Mot de passe de l'utilisateur SFTP Hublo",
+      "type": "password",
+      "required": true
+    }
+  },
+  {
+    "key": "sftpFilename",
+    "type": "input",
+    "defaultValue": "",
+    "templateOptions": {
+      "label": "Nom du fichier à récupérer sur le serveur SFTP",
+      "required": true
+    }
+  },
+  {
+    "key": "ServerDirectoryPath",
+    "type": "input",
+    "defaultValue": "",
+    "templateOptions": {
+      "label": "Chemin de dépose du fichier",
+      "required": true
+    }
+  },
+  {
+    "key": "RemoteFilePath",
+    "type": "input",
+    "defaultValue": "",
+    "templateOptions": {
+      "label": "Chemin du fichier sur le sftp",
+      "required": true
+    }
+  }
+]
