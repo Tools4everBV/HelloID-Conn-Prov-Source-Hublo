@@ -1,4 +1,4 @@
-# HelloID-Conn-Prov-Source-PLEIADES
+# HelloID-Conn-Prov-Source-HUBLO
 HR system mostly used by Hospitals in France
 
 | :information_source: Information |
